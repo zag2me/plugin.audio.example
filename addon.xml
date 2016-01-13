@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.audio.example" name="Streamign Audio Example" version="0.0.1" provider-name="curti">
+<addon id="plugin.audio.example" name="Example Kodi audio Plugin" version="0.0.1" provider-name="curti">
     <requires>
         <import addon="xbmc.python" version="2.20.0" />
         <import addon="script.module.beautifulsoup4" version="4.3.2"/>
